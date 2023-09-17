@@ -3,6 +3,7 @@
 ## Survey
 - [Deep reinforcement learning in computer vision: a comprehensive survey, N Le, VS Rathour, K Yamazaki, K Luu, Artificial Intelligence Review, 2021](https://link.springer.com/article/10.1007/s10462-021-10061-9)
 - A Survey on Deep Reinforcement Learning Algorithms for Robotic Manipulation
+- [Automatic Curriculum Learning For Deep RL: A Short Survey, arxiv, 2020](https://arxiv.org/abs/1710.06537)
 
 # Reinforcement Learning
 # RL Algorithm
