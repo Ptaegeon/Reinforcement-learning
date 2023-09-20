@@ -19,6 +19,12 @@
 ## Contrastive Learning
 [CURL: Contrastive Unsupervised Representations for Reinforcement Learning, PMLR, 2020](http://proceedings.mlr.press/v119/laskin20a.html)
 
+## Offline RL
+[Conservative Q-Learning for Offline Reinforcement Learning, NeurIPS, 2020](https://proceedings.neurips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html)
+
+[A Minimalist Approach to Offline Reinforcement Learning, Arxiv, 2021](https://arxiv.org/abs/2106.06860)
+
+
 
 ## Multi-modal
 - Multimodal Knowledge Alignment with Reinforcement Learning
@@ -54,6 +60,12 @@
 [Decision Transformer: Reinforcement Learning via Sequence Modeling, arxiv, 2021](https://arxiv.org/abs/2106.01345)
 
 [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem, NeurIPS, 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/69413f87e5a34897cd010ca698097d0a-Abstract-Conference.html)
+
+## Offline learning
+[Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification, NeurIPS, 2022](https://proceedings.mlr.press/v162/pan22a.html)
+
+[Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning, NeurIPS, 2021](https://proceedings.neurips.cc/paper/2021/hash/550a141f12de6341fba65b0ad0433500-Abstract.html)
+
 
 
 
