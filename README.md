@@ -24,6 +24,7 @@
 
 [A Minimalist Approach to Offline Reinforcement Learning, Arxiv, 2021](https://arxiv.org/abs/2106.06860)
 
+## Hierarchical RL
 
 
 ## Multi-modal
@@ -43,28 +44,30 @@
 
   
 # Multi-Agent
+## RL Algorithm
+
+## Sequential Modeling (Transformer)
+Decision Transformer : [ Reinforcement Learning via Sequence Modeling, NeurIPS, 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/7f489f642a0ddb10272b5c31057f0663-Abstract.html)
+
+MAT : [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem, NeurIPS, 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/69413f87e5a34897cd010ca698097d0a-Abstract-Conference.html)
+
 ## Model-Based
-[Mingling Foresight with Imagination: Model-Based Cooperative Multi-Agent Reinforcement Learning, NeurIPS, 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/49be51578b507f37cd8b5fad379af183-Abstract-Conference.html)
+MBVD : [Mingling Foresight with Imagination: Model-Based Cooperative Multi-Agent Reinforcement Learning, NeurIPS, 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/49be51578b507f37cd8b5fad379af183-Abstract-Conference.html)
 
 ## Q learning
-[Value-Decomposition Networks For Cooperative Multi-Agent Learning, arxiv 2017](https://arxiv.org/abs/1706.05296)
+Value Decomposition : [Value-Decomposition Networks For Cooperative Multi-Agent Learning, arxiv 2017](https://arxiv.org/abs/1706.05296)
 
-[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning, arxiv, 2018](https://arxiv.org/abs/1803.11485)
+QMIX : [Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning, arxiv, 2018](https://arxiv.org/abs/1803.11485)
 
 ## Policy gradient
-[The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games, arxiv, 2021](https://arxiv.org/abs/2103.01955)
+MAPPO : [The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games, arxiv, 2021](https://arxiv.org/abs/2103.01955)
 
-[Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning, arxiv, 2022](https://arxiv.org/abs/2109.11251)
-
-## Sequence modeling (Transformer)
-[Decision Transformer: Reinforcement Learning via Sequence Modeling, arxiv, 2021](https://arxiv.org/abs/2106.01345)
-
-[Multi-Agent Reinforcement Learning is a Sequence Modeling Problem, NeurIPS, 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/69413f87e5a34897cd010ca698097d0a-Abstract-Conference.html)
+HAPPO : [Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning, arxiv, 2022](https://arxiv.org/abs/2109.11251)
 
 ## Offline learning
-[Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification, NeurIPS, 2022](https://proceedings.mlr.press/v162/pan22a.html)
+OMAR : [Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification, NeurIPS, 2022](https://proceedings.mlr.press/v162/pan22a.html)
 
-[Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning, NeurIPS, 2021](https://proceedings.neurips.cc/paper/2021/hash/550a141f12de6341fba65b0ad0433500-Abstract.html)
+IQL : [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning, NeurIPS, 2021](https://proceedings.neurips.cc/paper/2021/hash/550a141f12de6341fba65b0ad0433500-Abstract.html)
 
 
 
