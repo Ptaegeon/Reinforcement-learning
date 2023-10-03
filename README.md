@@ -25,6 +25,17 @@
 [A Minimalist Approach to Offline Reinforcement Learning, Arxiv, 2021](https://arxiv.org/abs/2106.06860)
 
 ## Hierarchical RL
+HAC : [Learning Multi-Level Hierarchies with Hindsight, Arxiv, 2019](https://arxiv.org/abs/1712.00948)
+
+HIRO : [Data-Efficient Hierarchical Reinforcement Learning, NeurIPS, 2018](https://proceedings.neurips.cc/paper/2018/hash/e6384711491713d29bc63fc5eeb5ba4f-Abstract.html）
+
+HIGL : [Landmark-Guided Subgoal Generation in Hierarchical Reinforcement Learning, Arxiv, 2021](https://arxiv.org/abs/2110.13625)
+
+HIQL : 
+
+WGCSL : [Weighted Goal-conditioned Supervised Learning, ICLR, 2022](https://sites.google.com/view/wgcsl/)
+
+Guide to Control : [Offine Hierarchical Reinforcement Learning Using Subgoal Generation for Long-Horizon and Sparse-Reward Tasks, IJCAI, 2023](https://www.ijcai.org/proceedings/2023/0469.pdf)
 
 
 ## Multi-modal
