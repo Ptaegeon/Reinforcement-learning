@@ -27,7 +27,7 @@
 ## Hierarchical RL
 HAC : [Learning Multi-Level Hierarchies with Hindsight, Arxiv, 2019](https://arxiv.org/abs/1712.00948)
 
-HIRO : [Data-Efficient Hierarchical Reinforcement Learning, NeurIPS, 2018](https://proceedings.neurips.cc/paper/2018/hash/e6384711491713d29bc63fc5eeb5ba4f-Abstract.html）
+HIRO : [Data-Efficient Hierarchical Reinforcement Learning, NeurIPS, 2018](https://proceedings.neurips.cc/paper/2018/hash/e6384711491713d29bc63fc5eeb5ba4f-Abstract.html)
 
 HIGL : [Landmark-Guided Subgoal Generation in Hierarchical Reinforcement Learning, Arxiv, 2021](https://arxiv.org/abs/2110.13625)
 
