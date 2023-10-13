@@ -24,6 +24,8 @@
 
 [A Minimalist Approach to Offline Reinforcement Learning, Arxiv, 2021](https://arxiv.org/abs/2106.06860)
 
+IQL : [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning, NeurIPS, 2021](https://proceedings.neurips.cc/paper/2021/hash/550a141f12de6341fba65b0ad0433500-Abstract.html)
+
 ## Hierarchical RL
 HAC : [Learning Multi-Level Hierarchies with Hindsight, Arxiv, 2019](https://arxiv.org/abs/1712.00948)
 
@@ -31,7 +33,7 @@ HIRO : [Data-Efficient Hierarchical Reinforcement Learning, NeurIPS, 2018](https
 
 HIGL : [Landmark-Guided Subgoal Generation in Hierarchical Reinforcement Learning, Arxiv, 2021](https://arxiv.org/abs/2110.13625)
 
-HIQL : 
+HIQL : [Offline Goal-Conditioned RL with Latent States as Actions, Arxiv, 2023](https://arxiv.org/abs/2307.11949)
 
 WGCSL : [Weighted Goal-conditioned Supervised Learning, ICLR, 2022](https://sites.google.com/view/wgcsl/)
 
@@ -78,9 +80,20 @@ HAPPO : [Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning,
 ## Offline learning
 OMAR : [Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification, NeurIPS, 2022](https://proceedings.mlr.press/v162/pan22a.html)
 
-IQL : [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning, NeurIPS, 2021](https://proceedings.neurips.cc/paper/2021/hash/550a141f12de6341fba65b0ad0433500-Abstract.html)
+## Hierarchical method
+ODIS : [Discovering generalizable multi-agent coordination skills from multi-task offline data, ICLR(openreview), 2023](https://openreview.net/forum?id=53FyUAdP7d)
+
+HAVEN : [HAVEN: hierarchical cooperative multi-agent reinforcement learning with dual coordination mechanism, AAAI, 2023](https://ojs.aaai.org/index.php/AAAI/article/view/26386)
+
+HiMacMic : [Hierarchical Multi-Agent Deep Reinforcement Learning with Dynamic Asynchronous Macro Strategy, KDD, 2023](https://dl.acm.org/doi/abs/10.1145/3580305.3599379?casa_token=AcvJYLeQwukAAAAA:xKkQ01-M-p2H1WKwbVgF1TXKpRG15KO4S3X8jyOkD4iqcZ5MXWMobRQ_LE87txPulQrfQarc_XU)
 
 
+## Program-guided
+E-MAPP : [Efficient Multi-Agent Reinforcement Learning with Parallel Program Guidance, NeruIPS, 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4f2accafe6fa355624f3ee42207cc7b8-Abstract-Conference.html)
+
+ProTo: [Program-Guided Transformer for Program-Guided Tasks, NeurIPS, 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8d34201a5b85900908db6cae92723617-Abstract.html)
+
+[Program Guided Agent, ICLR(openreivew), 2022](https://openreview.net/forum?id=BkxUvnEYDH)
 
 
 ## Environment
@@ -91,7 +104,9 @@ IQL : [Believe What You See: Implicit Constraint Approach for Offline Multi-Agen
 - D4RL
 ### Multi Agent
 - SMAC
+- SMAC v2
 - Google Research Football
+- Overcooked
 - Multi agetn MuJoCo
 - Multi Particle Environment
 
