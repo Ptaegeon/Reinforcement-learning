@@ -26,6 +26,11 @@
 
 IQL : [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning, NeurIPS, 2021](https://proceedings.neurips.cc/paper/2021/hash/550a141f12de6341fba65b0ad0433500-Abstract.html)
 
+## Passive data
+ICVF : [Reinforcement Learning from Passive Data via Latent Intentions, PMLR, 2023](https://proceedings.mlr.press/v202/ghosh23a.html)
+
+V-PTR : [Robotic Offline RL from Internet Videos via Value-Function Pre-Training, Arxiv, 2023](https://arxiv.org/abs/2309.13041)
+
 ## Hierarchical RL
 HAC : [Learning Multi-Level Hierarchies with Hindsight, Arxiv, 2019](https://arxiv.org/abs/1712.00948)
 
