@@ -26,6 +26,16 @@
 
 IQL : [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning, NeurIPS, 2021](https://proceedings.neurips.cc/paper/2021/hash/550a141f12de6341fba65b0ad0433500-Abstract.html)
 
+### Distribution correction
+
+DiCE : [The DIstribution Correction Estimation Library](https://github.com/google-research/dice_rl)
+
+OptiDiCE : [Offline Policy Optimization via Stationary Distribution Correction Estimation, ICML, 2021](https://github.com/secury/optidice)
+
+AW : [Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting, ICLR, 2023 under review]([https://openreview.net/pdf?id=OhUAblg27z](https://github.com/Improbable-AI/harness-offline-rl))
+DW : [Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets, NeurIPS, 2023](https://github.com/Improbable-AI/dw-offline-rl)
+
+
 ## Passive data
 ICVF : [Reinforcement Learning from Passive Data via Latent Intentions, PMLR, 2023](https://proceedings.mlr.press/v202/ghosh23a.html)
 
@@ -44,6 +54,12 @@ WGCSL : [Weighted Goal-conditioned Supervised Learning, ICLR, 2022](https://site
 
 Guide to Control : [Offine Hierarchical Reinforcement Learning Using Subgoal Generation for Long-Horizon and Sparse-Reward Tasks, IJCAI, 2023](https://www.ijcai.org/proceedings/2023/0469.pdf)
 
+## Graph-guided RL
+L3P : [World Model as a Graph: Learning Latent Landmarks for Planning, ICML, 2021](https://github.com/LunjunZhang/world-model-as-a-graph)
+
+DHRL : [A Graph-Based Approach for Long-Horizon and Sparse Hierarchical Reinforcement Learning, NeurIPS, 2022](https://github.com/jayLEE0301/dhrl_official)
+
+VMG (offline) : [Value Memory Graph: A Graph-Structured World Model for Offline Reinforcement Learning, ICLR,2023](https://github.com/TsuTikgiau/ValueMemoryGraph)
 
 ## Multi-modal
 - Multimodal Knowledge Alignment with Reinforcement Learning
@@ -105,15 +121,20 @@ ProTo: [Program-Guided Transformer for Program-Guided Tasks, NeurIPS, 2021](http
   ### Multi modal
   - SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning
   - SoundSpaces Challenge @ CVPR 2023 Embodied AI Workshop
-### continuous action space
-- D4RL
-### Multi Agent
-- SMAC
-- SMAC v2
-- Google Research Football
-- Overcooked
-- Multi agetn MuJoCo
-- Multi Particle Environment
+  
+  ### Offline 
+  - D4RL
+
+  ### Imbalanced Offline 
+  - 
+
+  ### Multi Agent
+  - SMAC
+  - SMAC v2
+  - Google Research Football
+  - Overcooked
+  - Multi agetn MuJoCo
+  - Multi Particle Environment
 
   
 # Generative model
